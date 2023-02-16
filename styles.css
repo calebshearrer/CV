@@ -1,6 +1,9 @@
  body {
     background-color: #ECF9FF;
      }
+img {
+height: 225px;
+}
 
 hr {
      border-style: none;
